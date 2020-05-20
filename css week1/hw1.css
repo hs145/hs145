@@ -1,0 +1,41 @@
+body{
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 125%;
+	}
+
+header{
+	background: #66ffff;
+	text-align: center;
+}
+
+h1{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+	color: #6600ff;
+}
+
+nav{
+	
+	text-align:left;
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 80%;
+}
+h2{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+	color: #993399;
+	}
+section{
+	background:#6699ff;
+}
+a:link{
+  background-color:#000000;
+  color: #cc66ff;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:link{
+  background-color: #000000;
+}
+
